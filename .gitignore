@@ -1,4 +1,3 @@
 tokens/
-db/*
 config.yml
 __pycache__
